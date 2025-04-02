@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:myapp/color.dart';
-import 'package:myapp/gallery_page.dart';
+import 'package:mygalleryapp/color.dart';
+import 'package:mygalleryapp/GalleryPage.dart';
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
