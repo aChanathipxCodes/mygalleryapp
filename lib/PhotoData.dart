@@ -1,6 +1,6 @@
 import 'package:mygalleryapp/Photo.dart';
 
-List photos = [
+List<Photo> photos = [
   Photo(
     'https://drive.google.com/uc?export=view&id=1EihiJeGxWsAxF0iHLNIA9HVZxg68sltI',
   ),
